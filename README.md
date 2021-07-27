@@ -13,7 +13,7 @@ an object containeing the following properties
 ## usage
 
 ```
-  const BozonInjecterPlugin = require('./BozonPackageInjecterPlugin');
+  const BozonInjecterPlugin = require('./BozonPackageDependencyInjector');
   const mode = 'production';
   module.exports = {
   main: {
